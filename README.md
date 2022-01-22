@@ -147,81 +147,37 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQvbh6diTDl2TwbAyu8QWdpx
 HuggingFace
 
 
-1
-
-4:53
-
-What happens inside the pipeline function? (PyTorch)
+### 1 4:53  What happens inside the pipeline function? (PyTorch)
 
 
-2
-
-5:00
-
-What happens inside the pipeline function? (TensorFlow)
+### 2 5:00  What happens inside the pipeline function? (TensorFlow)
 
 
-3
-
-3:20
-
-Instantiate a Transformers model (PyTorch)
+### 3 3:20  Instantiate a Transformers model (PyTorch)
 
 
-4
-
-3:15
-
-Instantiate a Transformers model (TensorFlow)
+### 4 3:15  Instantiate a Transformers model (TensorFlow)
 
 
-5
-
-0:56
-
-Tokenizers overview
+### 5 0:56  Tokenizers overview
 
 
-6
-
-2:53
-
-Word-based tokenizers
+### 6 2:53   Word-based tokenizers
 
 
-7
-
-3:01
-
-Character-based tokenizers
+### 7 3:01  Character-based tokenizers
 
 
-8
-
-3:29
-
-Subword-based tokenizers
+### 8 3:29  Subword-based tokenizers
 
 
-9
-
-3:23
-
-The tokenization pipeline
+### 9 3:23  The tokenization pipeline
 
 
-10
-
-2:52
-
-Batching inputs together (PyTorch)
+### 10 2:52  Batching inputs together (PyTorch)
 
 
-11
-
-2:51
-
-Batching inputs together (TensorFlow)
+### 11 2:5  Batching inputs together (TensorFlow)
 
 
 -------
