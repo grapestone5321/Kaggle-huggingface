@@ -66,6 +66,34 @@ https://www.youtube.com/watch?v=G3pOvrKkFuk&list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR
 -------
 -------
 
+# github.com/huggingface
+https://https://github.com/huggingface
+
+# Hugging Face Course
+https://huggingface.co/course/
+
+
+asily share your fine-tuned models on the Hugging Face Hub using the push to hub API.
+
+This video is part of the Hugging Face course: http://huggingface.co/course
+Open in colab to run the code samples: 
+https://colab.research.google.com/git...
+
+You will need a Hugging Face account to manage a be able to push to the Model Hub.
+Join now: http://huggingface.co/join
+
+TensorFlow version: https://youtu.be/pUh5cGmNV8Y
+
+Related videos:
+- Navigate the Model Hub: https://youtu.be/XvSGPZFEjDY
+- How to instantiate a Transformers model: https://youtu.be/AhChOFRegn4
+- The Trainer API: https://youtu.be/nvBXf7s7vTI
+
+Have a question? Checkout the forums: https://discuss.huggingface.co/c/cour...
+Subscribe to our newsletter: https://huggingface.curated.co/
+
+-------
+
 ## Hugging Face Course Chapter 1
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ
 
@@ -94,7 +122,66 @@ HuggingFace
 
 ### 8 6:47 Transformer models: Encoder-Decoders
 
+-------
 
+## Hugging Face Course Chapter 2
+https://www.youtube.com/playlist?list=PLo2EIpI_JMQupmYlTIrUTWD_oV-kYA3Hx
+
+HuggingFace
+
+-------
+
+## Hugging Face Course Chapter 3: PyTorch version
+https://www.youtube.com/playlist?list=PLo2EIpI_JMQvbh6diTDl2TwbAyu8QWdpx
+
+
+HuggingFace
+
+-------
+
+## Hugging Face Course Chapter 3: TensorFlow version
+https://www.youtube.com/playlist?list=PLo2EIpI_JMQvXha8ltnkSGDfNCUE59YVm
+
+HuggingFace
+
+
+-------
+
+## Hugging Face Course Chapter 4
+https://www.youtube.com/playlist?list=PLo2EIpI_JMQvBf9VwoyXCkHldK6-4aGPQ
+
+HuggingFace
+
+-------
+
+## Hugging Face Course Chapter 5
+https://www.youtube.com/playlist?list=PLo2EIpI_JMQt7wOxx6EAnXIvJMK1hoSwm
+
+HuggingFace
+
+
+-------
+
+## Hugging Face Course Chapter 6
+https://www.youtube.com/playlist?list=PLo2EIpI_JMQshO8wBZ9Dp3E7Y4uiBmphN
+
+HuggingFace
+
+
+-------
+
+## Hugging Face Course Chapter 7
+https://www.youtube.com/playlist?list=PLo2EIpI_JMQtYmOWSszkfIi4sgz2NsySi
+
+
+HuggingFace
+
+-------
+
+## Hugging Face Course Chapter 8
+https://www.youtube.com/playlist?list=PLo2EIpI_JMQt52mV-fylktyVtznz4SU8i
+
+HuggingFace
 
 -------
 -------
