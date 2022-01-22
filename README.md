@@ -1,2 +1,72 @@
 # Kaggle-huggingface
 Kaggle-huggingface
+
+
+
+-------
+-------
+
+## huggingface / datasets
+https://github.com/huggingface/datasets
+
+Datasets is a lightweight library providing two main features:
+
+- one-line dataloaders for many public datasets: one-liners to download and pre-process any of the number of datasets major public datasets (in 467 languages and dialects!) provided on the HuggingFace Datasets Hub. With a simple command like squad_dataset = load_dataset("squad"), get any of these datasets ready to use in a dataloader for training/evaluating a ML model (Numpy/Pandas/PyTorch/TensorFlow/JAX),
+
+- efficient data pre-processing: simple, fast and reproducible data pre-processing for the above public datasets as well as your own local datasets in CSV/JSON/text. With simple commands like tokenized_dataset = dataset.map(tokenize_example), efficiently prepare the dataset for inspection and ML model evaluation and training.
+
+
+Datasets also provides access to +15 evaluation metrics and is designed to let the community easily add and share new datasets and evaluation metrics.
+
+Datasets has many additional interesting features:
+
+- Thrive on large datasets: hugs Datasets naturally frees the user from RAM memory limitation, all datasets are memory-mapped using an efficient zero-serialization cost backend (Apache Arrow).
+
+- Smart caching: never wait for your data to process several times.
+
+- Lightweight and fast with a transparent and pythonic API (multi-processing/caching/memory-mapping).
+
+- Built-in interoperability with NumPy, pandas, PyTorch, Tensorflow 2 and JAX.
+
+Datasets originated from a fork of the awesome TensorFlow Datasets and the HuggingFace team want to deeply thank the TensorFlow Datasets team for building this amazing library. More details on the differences between hugs Datasets and tfds can be found in the section Main differences between hugs Datasets and tfds.
+
+
+-------
+
+# Paper 
+
+## Datasets: A Community Library for Natural Language Processing
+https://arxiv.org/pdf/2109.02846.pdf
+
+7 Sep 2021
+
+
+-------
+-------
+
+## [Code] PyTorch sentiment classifier from scratch with Huggingface NLP Library (Full Tutorial)
+https://www.youtube.com/watch?v=G3pOvrKkFuk&list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu&index=16
+
+
+- My Code: https://github.com/yk/huggingface-nlp-demo
+- 
+- NLP Library: https://github.com/huggingface/nlp
+
+- Tutorial Colab: https://colab.research.google.com/github/huggingface/nlp/blob/master/notebooks/Overview.ipynb
+
+- Transformers Library: https://github.com/huggingface/transformers
+
+- Pytorch Lightning: https://github.com/PyTorchLightning/pytorch-lightning
+
+
+
+
+
+
+-------
+-------
+
+
+
+
+
