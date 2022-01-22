@@ -66,7 +66,36 @@ https://www.youtube.com/watch?v=G3pOvrKkFuk&list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR
 -------
 -------
 
+## Hugging Face Course Chapter 1
+https://www.youtube.com/playlist?list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ
+
+HuggingFace
+
+### 1 4:33 Welcome to the Hugging Face course
+
+
+### 2 4:36 The pipeline function
+
+
+### 3 4:06 What is Transfer Learning?
+
+
+### 4 5:24 The carbon footprint of Transformers
+
+
+### 5 2:45 The Transformer architecture
+
+
+### 6 4:46 Transformer models: Encoders
+
+
+### 7 4:27 Transformer models: Decoders
+
+
+### 8 6:47 Transformer models: Encoder-Decoders
 
 
 
+-------
+-------
 
