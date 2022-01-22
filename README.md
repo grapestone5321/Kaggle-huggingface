@@ -69,6 +69,15 @@ https://www.youtube.com/watch?v=G3pOvrKkFuk&list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR
 # github.com/huggingface
 https://https://github.com/huggingface
 
+-------
+
+# github.com/huggingface/transformers
+https://github.com/huggingface/transformers
+
+
+-------
+-------
+
 # Hugging Face Course
 https://huggingface.co/course/
 
