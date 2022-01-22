@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=G3pOvrKkFuk&list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR
 
 
 - My Code: https://github.com/yk/huggingface-nlp-demo
-- 
+
 - NLP Library: https://github.com/huggingface/nlp
 
 - Tutorial Colab: https://colab.research.google.com/github/huggingface/nlp/blob/master/notebooks/Overview.ipynb
