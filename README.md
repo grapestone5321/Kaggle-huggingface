@@ -146,6 +146,84 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQvbh6diTDl2TwbAyu8QWdpx
 
 HuggingFace
 
+
+1
+
+4:53
+
+What happens inside the pipeline function? (PyTorch)
+
+
+2
+
+5:00
+
+What happens inside the pipeline function? (TensorFlow)
+
+
+3
+
+3:20
+
+Instantiate a Transformers model (PyTorch)
+
+
+4
+
+3:15
+
+Instantiate a Transformers model (TensorFlow)
+
+
+5
+
+0:56
+
+Tokenizers overview
+
+
+6
+
+2:53
+
+Word-based tokenizers
+
+
+7
+
+3:01
+
+Character-based tokenizers
+
+
+8
+
+3:29
+
+Subword-based tokenizers
+
+
+9
+
+3:23
+
+The tokenization pipeline
+
+
+10
+
+2:52
+
+Batching inputs together (PyTorch)
+
+
+11
+
+2:51
+
+Batching inputs together (TensorFlow)
+
+
 -------
 
 ## Hugging Face Course Chapter 3: TensorFlow version
@@ -153,6 +231,47 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQvXha8ltnkSGDfNCUE59YVm
 
 HuggingFace
 
+1
+
+3:28
+NOW PLAYING
+Hugging Face Datasets overview (Tensorflow)
+HuggingFace
+
+2
+
+3:09
+NOW PLAYING
+Preprocessing sentence pairs (TensorFlow)
+HuggingFace
+
+3
+
+2:51
+NOW PLAYING
+Keras introduction
+HuggingFace
+
+4
+
+5:05
+NOW PLAYING
+Fine-tuning with TensorFlow
+HuggingFace
+
+5
+
+4:14
+NOW PLAYING
+Learning rate scheduling with TensorFlow
+HuggingFace
+
+6
+
+4:11
+NOW PLAYING
+TensorFlow Predictions and metrics
+HuggingFace
 
 -------
 
@@ -161,11 +280,91 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQvBf9VwoyXCkHldK6-4aGPQ
 
 HuggingFace
 
+
+1
+
+3:55
+NOW PLAYING
+Navigating the Model Hub
+HuggingFace
+
+2
+
+5:06
+NOW PLAYING
+The Push to Hub API (PyTorch)
+HuggingFace
+
+3
+
+8:38
+NOW PLAYING
+The Push to Hub API (TensorFlow)
+HuggingFace
+
+4
+
+7:55
+NOW PLAYING
+Managing a repo on the Model Hub
+HuggingFace
+
+
 -------
 
 ## Hugging Face Course Chapter 5
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQt7wOxx6EAnXIvJMK1hoSwm
 
+HuggingFace
+
+
+1
+
+3:12
+NOW PLAYING
+Loading a custom dataset
+HuggingFace
+
+2
+
+3:35
+NOW PLAYING
+Slice and dice a dataset 🔪
+HuggingFace
+
+3
+
+2:33
+NOW PLAYING
+Datasets + DataFrames = ❤️
+HuggingFace
+
+4
+
+3:27
+NOW PLAYING
+Saving and reloading a dataset
+HuggingFace
+
+5
+
+3:28
+NOW PLAYING
+Memory mapping & streaming
+HuggingFace
+
+6
+
+2:05
+NOW PLAYING
+Uploading a dataset to the Hub
+HuggingFace
+
+7
+
+3:30
+NOW PLAYING
+Text embeddings & semantic search
 HuggingFace
 
 
@@ -177,6 +376,98 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQshO8wBZ9Dp3E7Y4uiBmphN
 HuggingFace
 
 
+1
+
+1:49
+NOW PLAYING
+Why are fast tokenizers called fast?
+HuggingFace
+
+2
+
+3:11
+NOW PLAYING
+Fast tokenizer superpowers
+HuggingFace
+
+3
+
+3:02
+NOW PLAYING
+Inside the Token classification pipeline (PyTorch)
+HuggingFace
+
+4
+
+3:08
+NOW PLAYING
+Inside the Token classification pipeline (TensorFlow)
+HuggingFace
+
+5
+
+3:23
+NOW PLAYING
+Inside the Question answering pipeline (PyTorch)
+HuggingFace
+
+6
+
+3:28
+NOW PLAYING
+Inside the Question answering pipeline (TensorFlow)
+HuggingFace
+
+7
+
+6:25
+NOW PLAYING
+Training a new tokenizer
+HuggingFace
+
+8
+
+5:18
+NOW PLAYING
+What is normalization?
+HuggingFace
+
+9
+
+2:50
+NOW PLAYING
+What is pre-tokenization?
+HuggingFace
+
+10
+
+5:23
+NOW PLAYING
+Byte Pair Encoding Tokenization
+HuggingFace
+
+11
+
+3:50
+NOW PLAYING
+WordPiece Tokenization
+HuggingFace
+
+12
+
+8:20
+NOW PLAYING
+Unigram Tokenization
+HuggingFace
+
+13
+
+5:18
+NOW PLAYING
+Building a new tokenizer
+HuggingFace
+
+
 -------
 
 ## Hugging Face Course Chapter 7
@@ -185,12 +476,165 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQtYmOWSszkfIi4sgz2NsySi
 
 HuggingFace
 
+1
+
+3:36
+NOW PLAYING
+Using a custom loss function
+HuggingFace
+
+2
+
+1:51
+NOW PLAYING
+What is domain adaptation?
+HuggingFace
+
+3
+
+3:22
+NOW PLAYING
+Data processing for Token Classification
+HuggingFace
+
+4
+
+4:34
+NOW PLAYING
+Data processing for Causal Language Modeling
+HuggingFace
+
+5
+
+2:30
+NOW PLAYING
+Data processing for Masked Language Modeling
+HuggingFace
+
+6
+
+2:14
+NOW PLAYING
+What is perplexity?
+HuggingFace
+
+7
+
+2:26
+NOW PLAYING
+Data processing for Translation
+HuggingFace
+
+8
+
+4:42
+NOW PLAYING
+What is the BLEU metric?
+HuggingFace
+
+9
+
+2:04
+NOW PLAYING
+Data processing for Summarization
+HuggingFace
+
+10
+
+4:09
+NOW PLAYING
+What is the ROUGE metric?
+HuggingFace
+
+11
+
+2:51
+NOW PLAYING
+Data processing for Question Answering
+HuggingFace
+
+12
+
+3:16
+NOW PLAYING
+The Post processing step in Question Answering (PyTorch)
+HuggingFace
+
+13
+
+3:09
+NOW PLAYING
+The Post processing step in Question Answering (TensorFlow)
+HuggingFace
+
+14
+
+6:17
+
+Data Collators: A Tour
+
+
+
+
 -------
 
 ## Hugging Face Course Chapter 8
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQt52mV-fylktyVtznz4SU8i
 
 HuggingFace
+
+
+1
+
+2:40
+
+What to do when you get an error?
+
+
+2
+
+3:33
+
+Using a debugger in a notebook
+
+
+3
+
+4:00
+
+Using a debugger in a terminal
+
+
+4
+
+3:07
+
+Asking for help on the forums
+
+
+5
+
+7:45
+
+Debugging the Training Pipeline (TensorFlow)
+
+
+6
+
+4:16
+
+Debugging the Training Pipeline (PyTorch)
+
+
+7
+
+3:11
+
+Writing a good issue
+
+
+
+
 
 -------
 -------
