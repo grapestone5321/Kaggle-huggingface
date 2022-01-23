@@ -108,28 +108,28 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ
 
 HuggingFace
 
-### 1 4:33 Welcome to the Hugging Face course
+### 1 4:33  Welcome to the Hugging Face course
 
 
-### 2 4:36 The pipeline function
+### 2 4:36  The pipeline function
 
 
-### 3 4:06 What is Transfer Learning?
+### 3 4:06  What is Transfer Learning?
 
 
-### 4 5:24 The carbon footprint of Transformers
+### 4 5:24   The carbon footprint of Transformers
 
 
-### 5 2:45 The Transformer architecture
+### 5 2:45  The Transformer architecture
 
 
-### 6 4:46 Transformer models: Encoders
+### 6 4:46  Transformer models: Encoders
 
 
-### 7 4:27 Transformer models: Decoders
+### 7 4:27  Transformer models: Decoders
 
 
-### 8 6:47 Transformer models: Encoder-Decoders
+### 8 6:47  Transformer models: Encoder-Decoders
 
 -------
 
@@ -137,6 +137,42 @@ HuggingFace
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQupmYlTIrUTWD_oV-kYA3Hx
 
 HuggingFace
+
+
+
+### 1 4:53  What happens inside the pipeline function? (PyTorch)
+
+
+### 2 5:00  What happens inside the pipeline function? (TensorFlow)
+
+
+### 3 3:20  Instantiate a Transformers model (PyTorch)
+
+
+### 4 3:15  Instantiate a Transformers model (TensorFlow)
+
+
+### 5 0:56  Tokenizers overview
+
+
+### 6 2:53  Word-based tokenizers
+
+
+### 7 3:01  Character-based tokenizers
+
+
+### 8 3:29  Subword-based tokenizers
+
+
+### 9 3:23  The tokenization pipeline
+
+
+### 10 2:52  Batching inputs together (PyTorch)
+
+
+### 11 2:51  Batching inputs together (TensorFlow)
+
+
 
 -------
 
@@ -190,44 +226,44 @@ HuggingFace
 1
 
 3:28
-NOW PLAYING
+ 
 Hugging Face Datasets overview (Tensorflow)
-HuggingFace
+ 
 
 2
 
 3:09
-NOW PLAYING
+ 
 Preprocessing sentence pairs (TensorFlow)
-HuggingFace
+ 
 
 3
 
 2:51
-NOW PLAYING
+ 
 Keras introduction
-HuggingFace
+ 
 
 4
 
 5:05
-NOW PLAYING
+ 
 Fine-tuning with TensorFlow
-HuggingFace
+ 
 
 5
 
 4:14
-NOW PLAYING
+ 
 Learning rate scheduling with TensorFlow
-HuggingFace
+ 
 
 6
 
 4:11
-NOW PLAYING
+ 
 TensorFlow Predictions and metrics
-HuggingFace
+ 
 
 -------
 
@@ -240,30 +276,30 @@ HuggingFace
 1
 
 3:55
-NOW PLAYING
+ 
 Navigating the Model Hub
-HuggingFace
+ 
 
 2
 
 5:06
-NOW PLAYING
+ 
 The Push to Hub API (PyTorch)
-HuggingFace
+ 
 
 3
 
 8:38
-NOW PLAYING
+ 
 The Push to Hub API (TensorFlow)
-HuggingFace
+ 
 
 4
 
 7:55
-NOW PLAYING
+  
 Managing a repo on the Model Hub
-HuggingFace
+ 
 
 
 -------
