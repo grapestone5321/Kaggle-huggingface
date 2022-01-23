@@ -223,11 +223,7 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQvXha8ltnkSGDfNCUE59YVm
 
 HuggingFace
 
-1
-
-3:28
- 
-Hugging Face Datasets overview (Tensorflow)
+### 1 3:28  Hugging Face Datasets overview (Tensorflow)
  
 
 2
