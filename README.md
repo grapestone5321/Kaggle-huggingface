@@ -108,28 +108,36 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ
 
 HuggingFace
 
-### 1 4:33  Welcome to the Hugging Face course
+### 1 4:33  
+Welcome to the Hugging Face course
 
 
-### 2 4:36  The pipeline function
+### 2 4:36  
+The pipeline function
 
 
-### 3 4:06  What is Transfer Learning?
+### 3 4:06  
+What is Transfer Learning?
 
 
-### 4 5:24   The carbon footprint of Transformers
+### 4 5:24   
+The carbon footprint of Transformers
 
 
-### 5 2:45  The Transformer architecture
+### 5 2:45  
+The Transformer architecture
 
 
-### 6 4:46  Transformer models: Encoders
+### 6 4:46  
+Transformer models: Encoders
 
 
-### 7 4:27  Transformer models: Decoders
+### 7 4:27  
+Transformer models: Decoders
 
 
-### 8 6:47  Transformer models: Encoder-Decoders
+### 8 6:47  
+Transformer models: Encoder-Decoders
 
 -------
 
@@ -140,37 +148,48 @@ HuggingFace
 
 
 
-### 1 4:53  What happens inside the pipeline function? (PyTorch)
+### 1 4:53  
+What happens inside the pipeline function? (PyTorch)
 
 
-### 2 5:00  What happens inside the pipeline function? (TensorFlow)
+### 2 5:00  
+What happens inside the pipeline function? (TensorFlow)
 
 
-### 3 3:20  Instantiate a Transformers model (PyTorch)
+### 3 3:20  
+Instantiate a Transformers model (PyTorch)
 
 
-### 4 3:15  Instantiate a Transformers model (TensorFlow)
+### 4 3:15  
+Instantiate a Transformers model (TensorFlow)
 
 
-### 5 0:56  Tokenizers overview
+### 5 0:56  
+Tokenizers overview
 
 
-### 6 2:53  Word-based tokenizers
+### 6 2:53  
+Word-based tokenizers
 
 
-### 7 3:01  Character-based tokenizers
+### 7 3:01  
+Character-based tokenizers
 
 
-### 8 3:29  Subword-based tokenizers
+### 8 3:29  
+Subword-based tokenizers
 
 
-### 9 3:23  The tokenization pipeline
+### 9 3:23  
+The tokenization pipeline
 
 
-### 10 2:52  Batching inputs together (PyTorch)
+### 10 2:52  
+Batching inputs together (PyTorch)
 
 
-### 11 2:51  Batching inputs together (TensorFlow)
+### 11 2:51  
+Batching inputs together (TensorFlow)
 
 
 
@@ -183,37 +202,48 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQvbh6diTDl2TwbAyu8QWdpx
 HuggingFace
 
 
-### 1 4:53  What happens inside the pipeline function? (PyTorch)
+### 1 4:53  
+What happens inside the pipeline function? (PyTorch)
 
 
-### 2 5:00  What happens inside the pipeline function? (TensorFlow)
+### 2 5:00  
+What happens inside the pipeline function? (TensorFlow)
 
 
-### 3 3:20  Instantiate a Transformers model (PyTorch)
+### 3 3:20  
+Instantiate a Transformers model (PyTorch)
 
 
-### 4 3:15  Instantiate a Transformers model (TensorFlow)
+### 4 3:15  
+Instantiate a Transformers model (TensorFlow)
 
 
-### 5 0:56  Tokenizers overview
+### 5 0:56  
+Tokenizers overview
 
 
-### 6 2:53   Word-based tokenizers
+### 6 2:53   
+Word-based tokenizers
 
 
-### 7 3:01  Character-based tokenizers
+### 7 3:01  
+Character-based tokenizers
 
 
-### 8 3:29  Subword-based tokenizers
+### 8 3:29  
+Subword-based tokenizers
 
 
-### 9 3:23  The tokenization pipeline
+### 9 3:23  
+The tokenization pipeline
 
 
-### 10 2:52  Batching inputs together (PyTorch)
+### 10 2:52  
+Batching inputs together (PyTorch)
 
 
-### 11 2:5  Batching inputs together (TensorFlow)
+### 11 2:5  
+Batching inputs together (TensorFlow)
 
 
 -------
@@ -223,40 +253,31 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQvXha8ltnkSGDfNCUE59YVm
 
 HuggingFace
 
-### 1 3:28  Hugging Face Datasets overview (Tensorflow)
+### 1 3:28  
+Hugging Face Datasets overview (Tensorflow)
  
 
-2
-
-3:09
+### 2 3:09
  
 Preprocessing sentence pairs (TensorFlow)
  
 
-3
-
-2:51
+### 3 2:51
  
 Keras introduction
  
 
-4
-
-5:05
+### 4 5:05
  
 Fine-tuning with TensorFlow
  
 
-5
-
-4:14
+### 5 4:14
  
 Learning rate scheduling with TensorFlow
  
 
-6
-
-4:11
+### 6 4:11
  
 TensorFlow Predictions and metrics
  
@@ -269,30 +290,22 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQvBf9VwoyXCkHldK6-4aGPQ
 HuggingFace
 
 
-1
-
-3:55
+### 1 3:55
  
 Navigating the Model Hub
  
 
-2
-
-5:06
+### 2 5:06
  
 The Push to Hub API (PyTorch)
  
 
-3
-
-8:38
+### 3 8:38
  
 The Push to Hub API (TensorFlow)
  
 
-4
-
-7:55
+### 4 7:55
   
 Managing a repo on the Model Hub
  
@@ -309,51 +322,51 @@ HuggingFace
 1
 
 3:12
-NOW PLAYING
+
 Loading a custom dataset
-HuggingFace
+
 
 2
 
 3:35
-NOW PLAYING
+
 Slice and dice a dataset 🔪
-HuggingFace
+
 
 3
 
 2:33
-NOW PLAYING
+
 Datasets + DataFrames = ❤️
-HuggingFace
+
 
 4
 
 3:27
-NOW PLAYING
+
 Saving and reloading a dataset
-HuggingFace
+
 
 5
 
 3:28
-NOW PLAYING
+
 Memory mapping & streaming
-HuggingFace
+
 
 6
 
 2:05
-NOW PLAYING
+
 Uploading a dataset to the Hub
-HuggingFace
+
 
 7
 
 3:30
-NOW PLAYING
+
 Text embeddings & semantic search
-HuggingFace
+
 
 
 -------
@@ -367,58 +380,58 @@ HuggingFace
 1
 
 1:49
-NOW PLAYING
+
 Why are fast tokenizers called fast?
-HuggingFace
+
 
 2
 
 3:11
-NOW PLAYING
+
 Fast tokenizer superpowers
-HuggingFace
+
 
 3
 
 3:02
-NOW PLAYING
+
 Inside the Token classification pipeline (PyTorch)
-HuggingFace
+
 
 4
 
 3:08
-NOW PLAYING
+
 Inside the Token classification pipeline (TensorFlow)
-HuggingFace
+
 
 5
 
 3:23
-NOW PLAYING
+
 Inside the Question answering pipeline (PyTorch)
-HuggingFace
+
 
 6
 
 3:28
-NOW PLAYING
+
 Inside the Question answering pipeline (TensorFlow)
-HuggingFace
+
 
 7
 
 6:25
-NOW PLAYING
+
 Training a new tokenizer
-HuggingFace
+
 
 8
 
 5:18
-NOW PLAYING
+
 What is normalization?
-HuggingFace
+
 
 9
 
