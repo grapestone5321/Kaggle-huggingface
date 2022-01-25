@@ -319,51 +319,37 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQt7wOxx6EAnXIvJMK1hoSwm
 HuggingFace
 
 
-1
-
-3:12
+### 1 3:12
 
 Loading a custom dataset
 
 
-2
-
-3:35
+### 2 3:35
 
 Slice and dice a dataset 🔪
 
 
-3
-
-2:33
+### 3 2:33
 
 Datasets + DataFrames = ❤️
 
 
-4
-
-3:27
+### 4 3:27
 
 Saving and reloading a dataset
 
 
-5
-
-3:28
+### 5 3:28
 
 Memory mapping & streaming
 
 
-6
-
-2:05
+### 6 2:05
 
 Uploading a dataset to the Hub
 
 
-7
-
-3:30
+### 7 3:30
 
 Text embeddings & semantic search
 
@@ -436,37 +422,36 @@ What is normalization?
 9
 
 2:50
-NOW PLAYING
+
 What is pre-tokenization?
-HuggingFace
 
 10
 
 5:23
-NOW PLAYING
+
 Byte Pair Encoding Tokenization
-HuggingFace
+
 
 11
 
 3:50
-NOW PLAYING
+
 WordPiece Tokenization
-HuggingFace
+
 
 12
 
 8:20
-NOW PLAYING
+
 Unigram Tokenization
-HuggingFace
+
 
 13
 
 5:18
-NOW PLAYING
+
 Building a new tokenizer
-HuggingFace
+
 
 
 -------
@@ -477,104 +462,74 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQtYmOWSszkfIi4sgz2NsySi
 
 HuggingFace
 
-1
+### 1 3:36
 
-3:36
-NOW PLAYING
 Using a custom loss function
-HuggingFace
 
-2
 
-1:51
-NOW PLAYING
+### 2 1:51
+
 What is domain adaptation?
-HuggingFace
 
-3
 
-3:22
-NOW PLAYING
+### 3 3:22
+
 Data processing for Token Classification
-HuggingFace
 
-4
 
-4:34
-NOW PLAYING
+### 4 4:34
+
 Data processing for Causal Language Modeling
-HuggingFace
 
-5
 
-2:30
-NOW PLAYING
+### 5 2:30
+
 Data processing for Masked Language Modeling
-HuggingFace
 
-6
 
-2:14
-NOW PLAYING
+### 6 2:14
+
 What is perplexity?
-HuggingFace
 
-7
 
-2:26
-NOW PLAYING
+### 7 2:26
+
 Data processing for Translation
-HuggingFace
 
-8
 
-4:42
-NOW PLAYING
+### 8 4:42 
+
 What is the BLEU metric?
-HuggingFace
 
-9
 
-2:04
-NOW PLAYING
+### 9 2:04
+
 Data processing for Summarization
-HuggingFace
 
-10
 
-4:09
-NOW PLAYING
+### 10 4:09
+
 What is the ROUGE metric?
-HuggingFace
 
-11
 
-2:51
-NOW PLAYING
+### 11 2:51
+
 Data processing for Question Answering
-HuggingFace
 
-12
 
-3:16
-NOW PLAYING
+### 12 3:16
+
 The Post processing step in Question Answering (PyTorch)
-HuggingFace
 
-13
 
-3:09
-NOW PLAYING
+### 13 3:09
+
 The Post processing step in Question Answering (TensorFlow)
-HuggingFace
 
-14
 
-6:17
+### 14 6:17
 
 Data Collators: A Tour
-
-
 
 
 -------
@@ -585,55 +540,39 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQt52mV-fylktyVtznz4SU8i
 HuggingFace
 
 
-1
-
-2:40
+### 1 2:40
 
 What to do when you get an error?
 
 
-2
-
-3:33
+### 2 3:33
 
 Using a debugger in a notebook
 
 
-3
-
-4:00
+### 3 4:00
 
 Using a debugger in a terminal
 
 
-4
-
-3:07
+### 4 3:07
 
 Asking for help on the forums
 
 
-5
-
-7:45
+### 5 7:45
 
 Debugging the Training Pipeline (TensorFlow)
 
 
-6
-
-4:16
+### 6 4:16
 
 Debugging the Training Pipeline (PyTorch)
 
 
-7
-
-3:11
+### 7 3:11
 
 Writing a good issue
-
-
 
 
 
