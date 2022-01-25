@@ -363,92 +363,66 @@ https://www.youtube.com/playlist?list=PLo2EIpI_JMQshO8wBZ9Dp3E7Y4uiBmphN
 HuggingFace
 
 
-1
-
-1:49
+### 1 1:49
 
 Why are fast tokenizers called fast?
 
 
-2
-
-3:11
+### 2 3:11 
 
 Fast tokenizer superpowers
 
 
-3
-
-3:02
+### 3 3:02  
 
 Inside the Token classification pipeline (PyTorch)
 
 
-4
-
-3:08
+### 4 3:08
 
 Inside the Token classification pipeline (TensorFlow)
 
 
-5
-
-3:23
+### 5 3:23
 
 Inside the Question answering pipeline (PyTorch)
 
 
-6
-
-3:28
+### 6 3:28
 
 Inside the Question answering pipeline (TensorFlow)
 
 
-7
-
-6:25
+### 7 6:25
 
 Training a new tokenizer
 
 
-8
-
-5:18
+### 8 5:18
 
 What is normalization?
 
 
-9
-
-2:50
+### 9 2:50
 
 What is pre-tokenization?
 
-10
-
-5:23
+### 10 5:23
 
 Byte Pair Encoding Tokenization
 
 
-11
-
-3:50
+### 11 3:50
 
 WordPiece Tokenization
 
 
-12
-
-8:20
+### 12 8:20
 
 Unigram Tokenization
 
 
-13
-
-5:18
+### 13 5:18
 
 Building a new tokenizer
 
