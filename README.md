@@ -103,7 +103,8 @@ Subscribe to our newsletter: https://huggingface.curated.co/
 
 -------
 
-## Hugging Face Course Chapter 1
+# Hugging Face Course Chapter 1: Transformer models
+
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ
 
 HuggingFace
@@ -141,7 +142,8 @@ Transformer models: Encoder-Decoders
 
 -------
 
-## Hugging Face Course Chapter 2
+# Hugging Face Course Chapter 2: Using 🤗 Transformers
+
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQupmYlTIrUTWD_oV-kYA3Hx
 
 HuggingFace
@@ -195,7 +197,9 @@ Batching inputs together (TensorFlow)
 
 -------
 
-## Hugging Face Course Chapter 3: PyTorch version
+# Hugging Face Course Chapter 3: Fine-tuning a pretrained model
+## PyTorch version:
+
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQvbh6diTDl2TwbAyu8QWdpx
 
 
@@ -248,7 +252,9 @@ Batching inputs together (TensorFlow)
 
 -------
 
-## Hugging Face Course Chapter 3: TensorFlow version
+# Hugging Face Course Chapter 3: Fine-tuning a pretrained model
+## TensorFlow version
+
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQvXha8ltnkSGDfNCUE59YVm
 
 HuggingFace
@@ -284,7 +290,8 @@ TensorFlow Predictions and metrics
 
 -------
 
-## Hugging Face Course Chapter 4
+## Hugging Face Course Chapter 4: Sharing models and tokenizers
+
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQvBf9VwoyXCkHldK6-4aGPQ
 
 HuggingFace
@@ -313,7 +320,8 @@ Managing a repo on the Model Hub
 
 -------
 
-## Hugging Face Course Chapter 5
+## Hugging Face Course Chapter 5: The 🤗 Datasets library
+
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQt7wOxx6EAnXIvJMK1hoSwm
 
 HuggingFace
@@ -357,7 +365,8 @@ Text embeddings & semantic search
 
 -------
 
-## Hugging Face Course Chapter 6
+## Hugging Face Course Chapter 6: The 🤗 Tokenizers library
+
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQshO8wBZ9Dp3E7Y4uiBmphN
 
 HuggingFace
@@ -430,7 +439,8 @@ Building a new tokenizer
 
 -------
 
-## Hugging Face Course Chapter 7
+## Hugging Face Course Chapter 7: Main NLP tasks
+
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQtYmOWSszkfIi4sgz2NsySi
 
 
@@ -508,7 +518,8 @@ Data Collators: A Tour
 
 -------
 
-## Hugging Face Course Chapter 8
+## Hugging Face Course Chapter 8: How to ask for help
+
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQt52mV-fylktyVtznz4SU8i
 
 HuggingFace
