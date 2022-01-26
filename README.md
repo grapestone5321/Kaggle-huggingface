@@ -290,7 +290,7 @@ TensorFlow Predictions and metrics
 
 -------
 
-## Hugging Face Course Chapter 4: Sharing models and tokenizers
+# Hugging Face Course Chapter 4: Sharing models and tokenizers
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQvBf9VwoyXCkHldK6-4aGPQ
 
@@ -320,7 +320,7 @@ Managing a repo on the Model Hub
 
 -------
 
-## Hugging Face Course Chapter 5: The 🤗 Datasets library
+# Hugging Face Course Chapter 5: The 🤗 Datasets library
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQt7wOxx6EAnXIvJMK1hoSwm
 
@@ -365,7 +365,7 @@ Text embeddings & semantic search
 
 -------
 
-## Hugging Face Course Chapter 6: The 🤗 Tokenizers library
+# Hugging Face Course Chapter 6: The 🤗 Tokenizers library
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQshO8wBZ9Dp3E7Y4uiBmphN
 
@@ -439,7 +439,7 @@ Building a new tokenizer
 
 -------
 
-## Hugging Face Course Chapter 7: Main NLP tasks
+# Hugging Face Course Chapter 7: Main NLP tasks
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQtYmOWSszkfIi4sgz2NsySi
 
@@ -518,7 +518,7 @@ Data Collators: A Tour
 
 -------
 
-## Hugging Face Course Chapter 8: How to ask for help
+# Hugging Face Course Chapter 8: How to ask for help
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQt52mV-fylktyVtznz4SU8i
 
