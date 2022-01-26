@@ -103,7 +103,7 @@ Subscribe to our newsletter: https://huggingface.curated.co/
 
 -------
 
-# Hugging Face Course Chapter 1: Transformer models
+# Chapter 1: Transformer models
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQtNtKNFFSMNIZwspj8H7-sQ
 
@@ -142,7 +142,7 @@ Transformer models: Encoder-Decoders
 
 -------
 
-# Hugging Face Course Chapter 2: Using 🤗 Transformers
+# Chapter 2: Using 🤗 Transformers
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQupmYlTIrUTWD_oV-kYA3Hx
 
@@ -197,7 +197,7 @@ Batching inputs together (TensorFlow)
 
 -------
 
-# Hugging Face Course Chapter 3: Fine-tuning a pretrained model
+# Chapter 3: Fine-tuning a pretrained model
 ## PyTorch version:
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQvbh6diTDl2TwbAyu8QWdpx
@@ -252,7 +252,7 @@ Batching inputs together (TensorFlow)
 
 -------
 
-# Hugging Face Course Chapter 3: Fine-tuning a pretrained model
+# Chapter 3: Fine-tuning a pretrained model
 ## TensorFlow version
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQvXha8ltnkSGDfNCUE59YVm
@@ -290,7 +290,7 @@ TensorFlow Predictions and metrics
 
 -------
 
-# Hugging Face Course Chapter 4: Sharing models and tokenizers
+# Chapter 4: Sharing models and tokenizers
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQvBf9VwoyXCkHldK6-4aGPQ
 
@@ -320,7 +320,7 @@ Managing a repo on the Model Hub
 
 -------
 
-# Hugging Face Course Chapter 5: The 🤗 Datasets library
+# Chapter 5: The 🤗 Datasets library
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQt7wOxx6EAnXIvJMK1hoSwm
 
@@ -365,7 +365,7 @@ Text embeddings & semantic search
 
 -------
 
-# Hugging Face Course Chapter 6: The 🤗 Tokenizers library
+# Chapter 6: The 🤗 Tokenizers library
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQshO8wBZ9Dp3E7Y4uiBmphN
 
@@ -439,7 +439,7 @@ Building a new tokenizer
 
 -------
 
-# Hugging Face Course Chapter 7: Main NLP tasks
+# Chapter 7: Main NLP tasks
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQtYmOWSszkfIi4sgz2NsySi
 
@@ -518,7 +518,7 @@ Data Collators: A Tour
 
 -------
 
-# Hugging Face Course Chapter 8: How to ask for help
+# Chapter 8: How to ask for help
 
 https://www.youtube.com/playlist?list=PLo2EIpI_JMQt52mV-fylktyVtznz4SU8i
 
