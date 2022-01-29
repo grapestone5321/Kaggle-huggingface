@@ -7,11 +7,21 @@ Kaggle-huggingface
 ### Hugging Face is an artificial Intelligence company founded in 2016 by Julien Chaumond.
 
 
-Hugging Face is a company which develops social AI-run chatbot applications. 
+**Hugging Face** is a company which develops social AI-run chatbot applications. 
 
 It was established in 2016 by Clement Delangue and Julien Chaumond. 
 
 The company is based in Brooklyn, New York, United States.
+
+
+- Product
+The company’s main products are their chatbot applications, which allows users to interact with the artificial intelligence that the company developed. 
+
+To accomplish this, Hugging Face developed its own natural language processing (NLP) model called Hierarchical Multi-Task Learning (HMTL) and managed a library of pre-trained NPL models under PyTorch-Transformers.
+
+Their chatbot applications are, as of September 2019, only available on iOS. 
+
+These applications are Chatty, Talking Dog, Talking Egg, and Boloss. These AIs are intended to be a digital companion that can entertain users.
 
 -------
 -------
