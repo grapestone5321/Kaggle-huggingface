@@ -2,6 +2,16 @@
 Kaggle-huggingface
 
 
+-------
+
+### Hugging Face is an artificial Intelligence company founded in 2016 by Julien Chaumond.
+
+
+Hugging Face is a company which develops social AI-run chatbot applications. 
+
+It was established in 2016 by Clement Delangue and Julien Chaumond. 
+
+The company is based in Brooklyn, New York, United States.
 
 -------
 -------
